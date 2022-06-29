@@ -52,7 +52,7 @@ Visual representation of the 100 most common words
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p5_lda_score.png" width="600">
 
-## Result
+## Topics overview
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p5_lda_result.png" width="600">
 
