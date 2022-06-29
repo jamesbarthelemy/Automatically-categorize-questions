@@ -34,11 +34,11 @@ The proposed solution consists of setting up a tag suggestion tool. It will be b
 1. The number of tags per post has an empirical distribution ranging from 1 to 5
 2. In the sample, mostly there are 2 tags on post
 
+## Wordcloud
+
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p5_wordcloud.png" width="600">
 
-1. The average basket has a value of 212.07 reals
-2. The median is 113.01 reals
-3. 75% of orders have a value of less than 201.98 reals
+Visual representation of the 100 most common words
 
 [Back to table of contents](#table-of-contents)
 
@@ -68,6 +68,6 @@ The proposed solution consists of setting up a tag suggestion tool. It will be b
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p5_results.png" width="600">
 
-To select the best combination, I classify each of the scores from the best to the worst and I award 5 points to the best, then 4 to the next etc… then finally 0 to the worst
+The model using Universal sentence encoder is the best performing model
 
 [Back to table of contents](#table-of-contents)
