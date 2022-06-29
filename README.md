@@ -1,7 +1,5 @@
 # Automatically categorize questions
 
-Stack Overflow is a popular Q&A site related to IT development.
+Stack Overflow is a website offering questions and answers on a wide range of computer programming topics. A member wishing to ask a question must use the dedicated form in which he must fill in a title, a question and 1 to 5 tags in order to categorize it. For experienced users this is not a problem, but for new users it would be a good idea to suggest some tags related to the question asked.
 
-To ask a question on this site, you must enter several tags in order to easily find the question later. For experienced users, this is not a problem, but for new users, it would be a good idea to suggest some tags related to the question asked.
-
-A fan of Stack Overflow, which has often saved your life, you decide to help the community in return. For this, you develop a tag suggestion system for the site. This will take the form of a machine learning algorithm that will automatically assign several relevant tags to a question. 
+The proposed solution consists of setting up a tag suggestion tool. It will be based on the title and content of the question. After a first pre-processing, a machine learning model will propose a series of tags depending on the content of the question asked. 
