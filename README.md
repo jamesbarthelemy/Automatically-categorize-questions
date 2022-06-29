@@ -31,9 +31,8 @@ The proposed solution consists of setting up a tag suggestion tool. It will be b
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p5_tags.png" width="600">
 
-1. Sales order recency has an empirical distribution ranging from 0 to 695 days
-2. On average, a customer placed their last order 238 days ago
-3. Half of the orders are less than 220 days old and 75% less than 347 days old
+1. The number of tags per post has an empirical distribution ranging from 1 to 5
+2. In the sample, mostly there are 2 tags on post
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p5_wordcloud.png" width="600">
 
